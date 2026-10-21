@@ -636,6 +636,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [dochost](https://dochost.io/mcp) `https://dochost.io/api/mcp`
   [![dochost MCP connector](https://glama.ai/mcp/connectors/io.dochost/dochost/badges/score.svg)](https://glama.ai/mcp/connectors/io.dochost/dochost)
   🔓 - Publish Markdown or HTML as a hosted page and get a shareable link.
+- [Docs MD](https://docs-md.com/agents) `https://docs-md.com/api/mcp`
+  [![Docs MD MCP connector](https://glama.ai/mcp/connectors/com.docs-md/markdown-share/badges/score.svg)](https://glama.ai/mcp/connectors/com.docs-md/markdown-share)
+  🔓 - Publish markdown as a rendered link with an expiry, read shares back as markdown, update or delete them.
 - [Foliade](https://foliade.gekkode.com/en/) `https://foliade.gekkode.com/mcp`
   [![Foliade MCP connector](https://glama.ai/mcp/connectors/com.gekkode/foliade/badges/score.svg)](https://glama.ai/mcp/connectors/com.gekkode/foliade)
   🔓 - Turn a PDF into a mobile flipbook catalogue, customise its reader and publish it.
